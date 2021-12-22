@@ -1,0 +1,10 @@
+.idea
+*.iml
+
+.vscode
+
+tompeg
+tompeg.exe
+
+*.mp4
+*.webm
